@@ -16,7 +16,9 @@ const projects = [
     description:
       "Responsive portfolio website built using React.",
     github: " https://github.com/kumariisoni",
-    demo: "https://portfolio-website-two-olive-mq2isqt6n9.vercel.app",
+    demo: "
+https://portfolio-website-eight-zeta-41.vercel.app
+",
   },
 ];
 
